@@ -1,0 +1,15 @@
+[submodule "les-downloader"]
+	path = les-downloader
+	url = https://github.com/eward9/les-downloader
+[submodule "Linux_Exploit_Suggester"]
+	path = Linux_Exploit_Suggester
+	url = https://github.com/PenturaLabs/Linux_Exploit_Suggester
+[submodule "AutoLocalPrivilegeEscalation"]
+	path = AutoLocalPrivilegeEscalation
+	url = https://github.com/ngalongc/AutoLocalPrivilegeEscalation
+[submodule "LinEnum"]
+	path = LinEnum
+	url = https://github.com/rebootuser/LinEnum
+[submodule "linuxprivchecker"]
+	path = linuxprivchecker
+	url = https://github.com/sleventyeleven/linuxprivchecker
